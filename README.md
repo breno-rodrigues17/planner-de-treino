@@ -1,2 +1,8 @@
-# planner-de-treino
-Aplicativo web feito com Streamlit para planejar treinos por dia da semana, registrar execuções (peso e observações) e fazer upload de vídeos para acompanhamento do personal trainer.
+# Planner de Treino 📅💪
+
+App feito com Streamlit para:
+- Montar rotinas de treino por dia da semana
+- Registrar treinos feitos (peso, observações)
+- Enviar vídeos do treino para o personal
+
+Feito por Breno Rodrigues Bittencourt 💻🏋️
